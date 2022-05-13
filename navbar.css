@@ -1,0 +1,42 @@
+body{
+  background-color: rebeccapurple;
+}
+.navbar-container {
+    height: 13vh;
+    width: 100%;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 1px;
+    color: white;
+    font-size: 15px;
+    position: fixed;
+  }
+/*   
+  .navbar {
+    display: flex;
+    justify-content: flex-start;
+    padding: 25px;
+    align-items:flex-end;
+    height: 100%;
+    color: black;
+    position: fixed;
+  }
+  
+  .pages-list {
+    display: flex;
+    width: 60%;
+    border-bottom: 3px solid red;
+    justify-content: space-around;
+    height: 100%;
+    border-bottom: none;
+    list-style-type: none;
+    box-sizing: border-box;
+  } */
+  .wel{
+    color: blue;
+    font-family:cursive;
+    font-style: italic;
+  }
+  .logo{
+    align-items:flex-start ;
+  }
